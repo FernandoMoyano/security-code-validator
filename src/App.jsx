@@ -6,7 +6,7 @@ function App() {
   return (
     <div className='App'>
       <UseState name='UseState' />
-      <ClassState name='ClasState' />
+      <ClassState name='ClassState' />
     </div>
   );
 }

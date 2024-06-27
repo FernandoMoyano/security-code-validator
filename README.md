@@ -15,3 +15,11 @@ componentDidUpdate(){}
 
 ```
 
+```Javascript 
+
+React.useState()
+
+React.useEffect(()=> { },[])
+
+```
+
